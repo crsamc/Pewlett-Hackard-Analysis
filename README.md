@@ -34,4 +34,4 @@ There are 72,458 positions which would need to be filled as soon as those who ar
 
 No, we only have 1,940 employees who are eligible to participate in a mentorship program.
 
-![Screenshot (173)](https://user-images.githubusercontent.com/101649525/186430515-a91d7457-4aef-4b08-9b33-71774e151b0c.png)
+![Screenshot (174)](https://user-images.githubusercontent.com/101649525/186445621-9988ec81-7c8d-456b-a93f-6e890269f1f7.png)
